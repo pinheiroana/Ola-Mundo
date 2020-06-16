@@ -3,7 +3,7 @@
 
 Aprendendo um pouco da **Linguagem de Markdown** com o professor __Guanabara__.
 
-Agora Vamos *aprender* um pouco sobre _listas_: 
+Agora vamos *aprender* um pouco sobre _listas_: 
 
 _**Lista Numerada**_:
 
