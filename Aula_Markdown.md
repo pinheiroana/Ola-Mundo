@@ -33,4 +33,31 @@ _**Lista de Tarefas**_:
 - [ ] Iniciar Projetos
 
 
+------------------------------------------------------------------
+## Criando Tabelas 
+
+Num | Nome | Nota
+--- | --- | --- 
+1 | Ana Maria | 8.0
+2 | Henrique | 9.0
+3 | Camila | 10.0
+4 | Mariana | 9.5
+
+Terminou a Tabela
+
+- Não entendo direito a biblioteca `Plotly` da linguaguem **Python**  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
